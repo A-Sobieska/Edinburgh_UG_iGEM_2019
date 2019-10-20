@@ -1,4 +1,4 @@
-; Taking pictures with a laptop web camera for a time lapse for the monitoring of hydrogen collection:
+; Taking pictures with a laptop web camera for a time lapse for the monitoring of hydrogen collection
 ; Zeke Rice-Gray
 ; for University of Edinburgh Undergraduate iGEM team 2019
 ; AutoHotKey script designed for Windows 10
