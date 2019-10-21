@@ -99,7 +99,7 @@ rfer_c = Metabolite(
 oxfer_c = Metabolite(
     'oxfer_c',
     name='oxidised 2Fe-2S ferredoxin',
-    compartment='c) #cytosol
+    compartment='c') #cytosol
 
 #retrieve these metabolites from the reconstruction
 NADH_c = HydA_model.metabolites.get_by_id("nadh_c")
