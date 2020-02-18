@@ -3,4 +3,4 @@ Scripts used for simulations in Edinburgh University Undergraduate iGEM team 201
 
 The Python script for E. coli was run in Spyder IDE.
 
-Details about the simulations can be found here: https://2019.igem.org/Team:Edinburgh_UG/Model
+More details about the simulations can be found here: https://2019.igem.org/Team:Edinburgh_UG/Model
